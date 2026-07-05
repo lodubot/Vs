@@ -1,7 +1,7 @@
 # VPS Bot Manager Configuration
 
 # Your Telegram Bot Token (from @BotFather)
-BOT_TOKEN = "8982914685:AAHU3WGRotEhoNvVOZkQnbPVjQoJjRFftdk"
+BOT_TOKEN = "8982914685:AAFjgPYCpKuAZdtJKtAm-tfe-gjQpfDJ9BU"
 
 # Admin User IDs (list of Telegram user IDs)
 ADMIN_IDS = [
